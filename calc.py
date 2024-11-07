@@ -1,8 +1,7 @@
 def addition(x,y):
     return x+y
 def substraction(x,y):
-    z= x-y
-    return z
+    return x-y
 def multiplication(x,y):
     return x+y
 def division(x,y):
